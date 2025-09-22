@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Anastasia!  
 
-<!--
-**anastasiabrgurning-cloud/anastasiabrgurning-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me  
+Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **geologi** serta penerapan metode komputasi dalam analisis data.  
 
-Here are some ideas to get you started:
+## 📚 What I'm Interested in Learning  
+- Pemrograman dengan Python untuk analisis data  
+- Machine learning yang berkaitan dengan geoscience  
+- Pengolahan sinyal dan data seismik  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Working On  
+- Menyelesaikan praktikum **Metode Komputasi**  
+- Membuat laporan dalam format **Markdown**  
+- Belajar dasar-dasar penggunaan **Git & GitHub** untuk kolaborasi  
+
+## 🎯 Goals  
+- Menguasai dasar pemrograman untuk penelitian geofisika  
+- Aktif berkolaborasi dalam proyek akademik maupun open source  
+- Membuat dokumentasi project yang lebih rapi dan mudah dipahami  
+
+## 🎨 My Favorite Hobby  
+- Membaca buku tentang sains dan sejarah  
+- Menggambar sketsa alam dan bebatuan  
+- Mendengarkan musik sambil coding  
+- Mencoba hal-hal baru yang menantang  
+
+ 
