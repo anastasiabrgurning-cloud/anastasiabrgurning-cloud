@@ -27,5 +27,5 @@ Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **pemogramanan
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/anastasiabrgurning)  
 - [Instagram](https://instagram.com/tasyaagrn_)  
-haha 
+  
  
