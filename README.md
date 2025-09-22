@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anastasia!  
 
 ## 🌱 About Me  
-Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **geologi** serta penerapan metode komputasi dalam analisis data.  
+Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **pemogramanan** serta penerapan metode komputasi dalam analisis data.  
 
 ## 📚 What I'm Interested in Learning  
 - Pemrograman dengan Python untuk analisis data  
@@ -10,6 +10,7 @@ Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **geologi** se
 
 ## 🛠️ What I'm Working On  
 - Menyelesaikan praktikum **Metode Komputasi**  
+- mempelajari bahasa pemograman, terutama **python**
 - Membuat laporan dalam format **Markdown**  
 - Belajar dasar-dasar penggunaan **Git & GitHub** untuk kolaborasi  
 
@@ -19,9 +20,8 @@ Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **geologi** se
 - Membuat dokumentasi project yang lebih rapi dan mudah dipahami  
 
 ## 🎨 My Favorite Hobby  
-- Membaca buku tentang sains dan sejarah  
-- Menggambar sketsa alam dan bebatuan  
-- Mendengarkan musik sambil coding  
-- Mencoba hal-hal baru yang menantang  
+- mendengarkan lagu
+- mempelajari hal-hal baru
+  
 
  
