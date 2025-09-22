@@ -16,6 +16,7 @@ Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **pemogramanan
 
 ## 🎯 Goals  
 - Menguasai dasar pemrograman untuk penelitian geofisika  
+- Tamat dari geofisika dengan cumlaude
 - Aktif berkolaborasi dalam proyek akademik maupun open source  
 - Membuat dokumentasi project yang lebih rapi dan mudah dipahami  
 
@@ -23,5 +24,8 @@ Halo! Saya sedang belajar di bidang geofisika dan tertarik dengan **pemogramanan
 - mendengarkan lagu
 - mempelajari hal-hal baru
   
-
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/anastasiabrgurning)  
+- [Instagram](https://instagram.com/tasyaagrn_)  
+haha 
  
